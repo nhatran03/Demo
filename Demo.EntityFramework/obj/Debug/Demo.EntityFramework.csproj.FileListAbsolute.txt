@@ -1,0 +1,14 @@
+C:\Nha\Dem\Demo\Demo.EntityFramework\bin\Debug\Demo.EntityFramework.dll.config
+C:\Nha\Dem\Demo\Demo.EntityFramework\bin\Debug\Demo.EntityFramework.dll
+C:\Nha\Dem\Demo\Demo.EntityFramework\bin\Debug\Demo.EntityFramework.pdb
+C:\Nha\Dem\Demo\Demo.EntityFramework\bin\Debug\Demo.Model.dll
+C:\Nha\Dem\Demo\Demo.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Nha\Dem\Demo\Demo.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Nha\Dem\Demo\Demo.EntityFramework\bin\Debug\Demo.Model.pdb
+C:\Nha\Dem\Demo\Demo.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Nha\Dem\Demo\Demo.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Nha\Dem\Demo\Demo.EntityFramework\obj\Debug\Demo.EntityFramework.csprojResolveAssemblyReference.cache
+C:\Nha\Dem\Demo\Demo.EntityFramework\obj\Debug\Demo.EntityFramework.dll
+C:\Nha\Dem\Demo\Demo.EntityFramework\obj\Debug\Demo.EntityFramework.pdb
+C:\Nha\Dem\Demo\Demo.EntityFramework\obj\Debug\Demo.EntityFramework.Migrations.FirstVersion.resources
+C:\Nha\Dem\Demo\Demo.EntityFramework\obj\Debug\Demo.EntityFramework.csproj.GenerateResource.Cache
