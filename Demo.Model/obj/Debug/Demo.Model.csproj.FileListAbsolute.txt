@@ -2,3 +2,8 @@ C:\Nha\Dem\Demo\Demo.Model\bin\Debug\Demo.Model.dll
 C:\Nha\Dem\Demo\Demo.Model\bin\Debug\Demo.Model.pdb
 C:\Nha\Dem\Demo\Demo.Model\obj\Debug\Demo.Model.dll
 C:\Nha\Dem\Demo\Demo.Model\obj\Debug\Demo.Model.pdb
+D:\Technical\MVC\Demo\Demo\Demo.Model\bin\Debug\Demo.Model.dll
+D:\Technical\MVC\Demo\Demo\Demo.Model\bin\Debug\Demo.Model.pdb
+D:\Technical\MVC\Demo\Demo\Demo.Model\obj\Debug\Demo.Model.csprojResolveAssemblyReference.cache
+D:\Technical\MVC\Demo\Demo\Demo.Model\obj\Debug\Demo.Model.dll
+D:\Technical\MVC\Demo\Demo\Demo.Model\obj\Debug\Demo.Model.pdb

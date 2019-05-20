@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Demo.Domain.Repositories
 {
-	public interface IRepository<TEntity, TPrimaryKey> : IRepository where TEntity: class, IEntity<TPrimaryKey>
+	public interface IRepository<TEntity, TPrimaryKey> : IRepository where TEntity: class, IIEntity<TPrimaryKey>
 	{
 		#region Select/Get/Query
 		IQueryable<TEntity> GetAll();

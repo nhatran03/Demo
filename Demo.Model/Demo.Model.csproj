@@ -41,8 +41,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\AuditableEntity.cs" />
+    <Compile Include="Entities\Entity.cs" />
+    <Compile Include="Entities\IAuditableEntity.cs" />
+    <Compile Include="Entities\IEntity.cs" />
+    <Compile Include="Model\Country.cs" />
+    <Compile Include="Model\Person.cs" />
     <Compile Include="MyFirstTable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Demo.Domain\Demo.Domain.csproj">
+      <Project>{B4D32E6F-DCF0-44B4-8DD6-CEB2BEFDE701}</Project>
+      <Name>Demo.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

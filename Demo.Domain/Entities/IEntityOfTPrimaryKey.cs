@@ -1,6 +1,6 @@
 ﻿namespace Demo.Domain.Entities
 {
-	public interface IEntity<TPrimary>
+	public interface IIEntity<TPrimary>
 	{
 		TPrimary Id { get; set; }
 

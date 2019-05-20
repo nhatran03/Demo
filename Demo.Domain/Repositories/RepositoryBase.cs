@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Demo.Domain.Repositories
 {
 	public abstract class RepositoryBase<TEntity, TPrimaryKey> : IRepository<TEntity, TPrimaryKey>
-		where TEntity : class, IEntity<TPrimaryKey>
+		where TEntity : class, IIEntity<TPrimaryKey>
 	{		
 		public int Count()
 		{
