@@ -29,5 +29,7 @@ namespace Demo.Models
         {
             return new ApplicationDbContext();
         }
-    }
+
+		public System.Data.Entity.DbSet<Demo.Model.Model.Country> Countries { get; set; }
+	}
 }
